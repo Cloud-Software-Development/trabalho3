@@ -1,0 +1,6 @@
+[submodule "backend_trabalho1"]
+	path = backend_trabalho1
+	url = https://github.com/Cloud-Software-Development/backend_trabalho1
+[submodule "frontend_trabalho2"]
+	path = frontend_trabalho2
+	url = https://github.com/Cloud-Software-Development/frontend_trabalho2
